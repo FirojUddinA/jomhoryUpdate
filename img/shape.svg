@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="479.054" height="479.987" viewBox="0 0 479.054 479.987">
+    <style>
+        #path1{
+            animation: path1 5s ease infinite;
+        }
+        @keyframes path1{
+            0%{transform: translate(0,0);}
+            50%{transform: translate(-10px,-10px);}
+            100%{transform: translate(0,0);}
+        }
+        #path2{
+            animation: path2 5s ease infinite;
+        }
+    
+        @keyframes path2{
+            0%{transform: translate(0,0);}
+            50%{transform: translate(10px,-10px);}
+            100%{transform: translate(0,0);}
+        }
+        #path3{
+            animation: path3 5s ease infinite;
+        }
+        @keyframes path3{
+            0%{transform: translate(0,0);}
+            50%{transform: translate(0px,10px);}
+            100%{transform: translate(0,0);}
+        }
+    </style>
+  <g id="Group_33665" data-name="Group 33665" transform="translate(551.578 317.095) rotate(149)">
+   <g id="path1">
+    <path id="Path_37355" data-name="Path 37355" d="M53.283,145.843C142.633,119.9,183.047,90.651,194.974,242.2s97.389,141.78,141.959-57.747S141.112-12.6,70.07,10.866-36.067,171.789,53.283,145.843Z" transform="matrix(0.407, 0.914, -0.914, 0.407, 316.272, 0)" fill="#2b76ff" opacity="0.07"/>
+   </g>
+   <g id="path2">
+    <ellipse id="Ellipse_2172" data-name="Ellipse 2172" cx="12.391" cy="12.391" rx="12.391" ry="12.391" transform="translate(74.365 383.091) rotate(172)" fill="#fa5b41" opacity="0.07"/>
+   </g>
+   <g id="path3">
+    <ellipse id="Ellipse_2171" data-name="Ellipse 2171" cx="9.638" cy="9.638" rx="9.638" ry="9.638" transform="matrix(0.998, 0.07, -0.07, 0.998, 194.865, 188.975)" fill="#cbddff" opacity="0.4"/>
+   </g>
+  </g>
+</svg>
