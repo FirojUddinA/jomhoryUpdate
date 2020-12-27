@@ -17,12 +17,6 @@ body {
 }
 
 @font-face {
-    font-family: Gilroy-Black;
-    src: url(../fonts/Gilroy-Black.otf);
-
-}
-
-@font-face {
     font-family: Gilroy-Bold;
     src: url(../fonts/Gilroy-Bold.otf);
 
@@ -59,7 +53,7 @@ body {
 }
 
 @font-face {
-    font-family: Gilroy-Semibold;
+    font-family: Gilroy-SemiBold;
     src: url(../fonts/Gilroy-SemiBold.otf);
 
 }
@@ -81,7 +75,7 @@ h1 {
 
 
 h2.section_heading {
-    font-family: Gilroy-Semibold, serif;
+    font-family: Gilroy-SemiBold, serif;
     font-size: 50px;
     color: #232055;
 }
@@ -93,7 +87,7 @@ p.section_text {
 }
 
 h2.s_heading {
-    font-family: Gilroy-Semibold, serif;
+    font-family: Gilroy-SemiBold, serif;
     font-size: 44px;
     color: #232055;
 }
@@ -397,7 +391,7 @@ nav.navbar .nav-link {
 
 #banner h2.bannrer_heading {
     color: #ffffff;
-    font-family: Gilroy-Semibold, serif;
+    font-family: Gilroy-SemiBold, serif;
     font-size: 60px;
 }
 
@@ -409,7 +403,7 @@ nav.navbar .nav-link {
 
 #become_jomhory h2.bannrer_heading {
     color: #232055;
-    font-family: Gilroy-Semibold, serif;
+    font-family: Gilroy-SemiBold, serif;
     font-size: 40px;
 }
 
